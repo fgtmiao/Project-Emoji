@@ -21,8 +21,9 @@
 更多微信开发者工具信息见https://developers.weixin.qq.com/miniprogram/dev/devtools/page.html
 
 ### 如何快速入门微信小程序？
-这是微信小程序官方文档https://developers.weixin.qq.com/miniprogram/dev/framework/。对没接触过小程序开发的人而言，我个人建议在开发前阅读以下内容：
+这是微信小程序官方文档https://developers.weixin.qq.com/miniprogram/dev/framework/
 
-指南 - 从“起步”到“小程序运行时”、基础能力
+对没接触过小程序开发的人而言，我个人建议在开发前阅读以下内容：
 
-框架 - 小程序配置、WXML语法参考
+1. 指南 - 从“起步”到“小程序运行时”、基础能力
+2. 框架 - 小程序配置、WXML语法参考
