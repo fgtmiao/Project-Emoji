@@ -15,7 +15,7 @@
 1. 下载并安装微信开发者工具 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 2. 安装完成后打开，通过微信扫码登录
 3. 左边选择小程序，点击右边加号创建新小程序
-4. 在上面的tab中选择“导入项目”，输入目录，项目名称和AppID会自动生成，点击右下角导入
+4. 在上面的tab中选择“导入项目”，输入目录，项目名称会自动生成，AppID点击测试号，点击右下角导入
 5. 打开后即可在开发者工具的模拟器上预览，或使用窗口上方功能中的预览/真机调试。
 
 更多微信开发者工具信息见https://developers.weixin.qq.com/miniprogram/dev/devtools/page.html
